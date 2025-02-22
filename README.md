@@ -21,10 +21,10 @@ This project provides an in-depth **Sales and Forecasting Analysis** over multip
 
 ## 📊 Visuals  
 ### Profit & Loss Analysis  
-![Profit & Loss](path/to/your/image.png)  
+![Profit & Loss](Profit-and-Loss.png)  
 
 ### Percentage Analysis  
-![Percentage Analysis](path/to/your/image.png)  
+![Percentage Analysis](Percentage-Analysis.png)  
 
 ## 🏆 Conclusion  
 This project helps businesses make **informed financial decisions** by understanding revenue trends, expense patterns, and profitability forecasts.  
