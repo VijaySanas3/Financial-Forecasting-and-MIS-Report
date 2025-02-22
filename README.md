@@ -1,6 +1,6 @@
 # Financial-Forecasting-and-MIS-Report
 ---
-![Mis Report](path/to/your/image.png)  
+![Mis Report](Mis-Report.png)  
 
 This project provides an in-depth **Sales and Forecasting Analysis** over multiple financial years, offering valuable insights into business performance, cost management, and profitability trends.  
 
